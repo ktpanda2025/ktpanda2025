@@ -1,4 +1,7 @@
 ### Hi there 👋
+```
+![Visitor Count](https : //profilecounter.glitch.me/{YOUR USE}/count.svg)
+```
 
 <!--
 **ktpanda2025/ktpanda2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
